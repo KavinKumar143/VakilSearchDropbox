@@ -1,0 +1,6 @@
+framework module Pods_VakilsearchDropboxUITests {
+  umbrella header "Pods-VakilsearchDropboxUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
